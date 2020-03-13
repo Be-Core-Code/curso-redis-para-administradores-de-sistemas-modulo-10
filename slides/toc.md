@@ -1,11 +1,5 @@
-#### Contenido módulo [MODULO]
+#### Contenido módulo 10
 
-#### [TÍTULO DEL MÓDULO]
+#### Redis plugins
 
-* ...
-
-notes:
-
-Los objetivos de este módulo son:
-
-* ...
+* [Gestión de plugins](/#plugins)
